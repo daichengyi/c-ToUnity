@@ -1,0 +1,15 @@
+F:\C#\C#初级课程之语法基础\06UserInput\bin\Debug\net8.0\06UserInput.exe
+F:\C#\C#初级课程之语法基础\06UserInput\bin\Debug\net8.0\06UserInput.deps.json
+F:\C#\C#初级课程之语法基础\06UserInput\bin\Debug\net8.0\06UserInput.runtimeconfig.json
+F:\C#\C#初级课程之语法基础\06UserInput\bin\Debug\net8.0\06UserInput.dll
+F:\C#\C#初级课程之语法基础\06UserInput\bin\Debug\net8.0\06UserInput.pdb
+F:\C#\C#初级课程之语法基础\06UserInput\obj\Debug\net8.0\06UserInput.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\C#初级课程之语法基础\06UserInput\obj\Debug\net8.0\06UserInput.AssemblyInfoInputs.cache
+F:\C#\C#初级课程之语法基础\06UserInput\obj\Debug\net8.0\06UserInput.AssemblyInfo.cs
+F:\C#\C#初级课程之语法基础\06UserInput\obj\Debug\net8.0\06UserInput.csproj.CoreCompileInputs.cache
+F:\C#\C#初级课程之语法基础\06UserInput\obj\Debug\net8.0\06UserInput.sourcelink.json
+F:\C#\C#初级课程之语法基础\06UserInput\obj\Debug\net8.0\06UserInput.dll
+F:\C#\C#初级课程之语法基础\06UserInput\obj\Debug\net8.0\refint\06UserInput.dll
+F:\C#\C#初级课程之语法基础\06UserInput\obj\Debug\net8.0\06UserInput.pdb
+F:\C#\C#初级课程之语法基础\06UserInput\obj\Debug\net8.0\06UserInput.genruntimeconfig.cache
+F:\C#\C#初级课程之语法基础\06UserInput\obj\Debug\net8.0\ref\06UserInput.dll
