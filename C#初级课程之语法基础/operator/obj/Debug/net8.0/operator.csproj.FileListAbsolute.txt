@@ -1,0 +1,14 @@
+F:\C#\operator\bin\Debug\net8.0\operator.exe
+F:\C#\operator\bin\Debug\net8.0\operator.deps.json
+F:\C#\operator\bin\Debug\net8.0\operator.runtimeconfig.json
+F:\C#\operator\bin\Debug\net8.0\operator.dll
+F:\C#\operator\bin\Debug\net8.0\operator.pdb
+F:\C#\operator\obj\Debug\net8.0\operator.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\operator\obj\Debug\net8.0\operator.AssemblyInfoInputs.cache
+F:\C#\operator\obj\Debug\net8.0\operator.AssemblyInfo.cs
+F:\C#\operator\obj\Debug\net8.0\operator.csproj.CoreCompileInputs.cache
+F:\C#\operator\obj\Debug\net8.0\operator.dll
+F:\C#\operator\obj\Debug\net8.0\refint\operator.dll
+F:\C#\operator\obj\Debug\net8.0\operator.pdb
+F:\C#\operator\obj\Debug\net8.0\operator.genruntimeconfig.cache
+F:\C#\operator\obj\Debug\net8.0\ref\operator.dll

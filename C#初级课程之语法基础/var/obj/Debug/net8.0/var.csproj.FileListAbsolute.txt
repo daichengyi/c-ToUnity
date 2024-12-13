@@ -1,0 +1,14 @@
+F:\C#\var\bin\Debug\net8.0\var.exe
+F:\C#\var\bin\Debug\net8.0\var.deps.json
+F:\C#\var\bin\Debug\net8.0\var.runtimeconfig.json
+F:\C#\var\bin\Debug\net8.0\var.dll
+F:\C#\var\bin\Debug\net8.0\var.pdb
+F:\C#\var\obj\Debug\net8.0\var.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\var\obj\Debug\net8.0\var.AssemblyInfoInputs.cache
+F:\C#\var\obj\Debug\net8.0\var.AssemblyInfo.cs
+F:\C#\var\obj\Debug\net8.0\var.csproj.CoreCompileInputs.cache
+F:\C#\var\obj\Debug\net8.0\var.dll
+F:\C#\var\obj\Debug\net8.0\refint\var.dll
+F:\C#\var\obj\Debug\net8.0\var.pdb
+F:\C#\var\obj\Debug\net8.0\var.genruntimeconfig.cache
+F:\C#\var\obj\Debug\net8.0\ref\var.dll
