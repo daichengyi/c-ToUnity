@@ -37,6 +37,10 @@ namespace _07typeConvert
 
             //4.Convert 类型转换
             Convert.ToDouble(a).ToString();
+
+            //常量
+            //命名规则 驼峰式大写 
+            const int CHANG_LIANG = 10;
         }
     }
 }
