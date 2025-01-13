@@ -1,0 +1,7 @@
+F:\C#\C#初级课程之语法基础\08ifStruct\bin\Debug\08ifStruct.exe.config
+F:\C#\C#初级课程之语法基础\08ifStruct\bin\Debug\08ifStruct.exe
+F:\C#\C#初级课程之语法基础\08ifStruct\bin\Debug\08ifStruct.pdb
+F:\C#\C#初级课程之语法基础\08ifStruct\obj\Debug\08ifStruct.csproj.AssemblyReference.cache
+F:\C#\C#初级课程之语法基础\08ifStruct\obj\Debug\08ifStruct.csproj.CoreCompileInputs.cache
+F:\C#\C#初级课程之语法基础\08ifStruct\obj\Debug\08ifStruct.exe
+F:\C#\C#初级课程之语法基础\08ifStruct\obj\Debug\08ifStruct.pdb
