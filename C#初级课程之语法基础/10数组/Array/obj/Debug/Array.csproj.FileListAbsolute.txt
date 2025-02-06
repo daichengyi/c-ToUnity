@@ -1,0 +1,7 @@
+F:\C#\C#初级课程之语法基础\10数组\Array\bin\Debug\Array.exe.config
+F:\C#\C#初级课程之语法基础\10数组\Array\bin\Debug\Array.exe
+F:\C#\C#初级课程之语法基础\10数组\Array\bin\Debug\Array.pdb
+F:\C#\C#初级课程之语法基础\10数组\Array\obj\Debug\Array.csproj.AssemblyReference.cache
+F:\C#\C#初级课程之语法基础\10数组\Array\obj\Debug\Array.csproj.CoreCompileInputs.cache
+F:\C#\C#初级课程之语法基础\10数组\Array\obj\Debug\Array.exe
+F:\C#\C#初级课程之语法基础\10数组\Array\obj\Debug\Array.pdb

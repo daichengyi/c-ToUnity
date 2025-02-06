@@ -1,0 +1,7 @@
+F:\C#\C#初级课程之语法基础\11函数\function\bin\Debug\function.exe.config
+F:\C#\C#初级课程之语法基础\11函数\function\bin\Debug\function.exe
+F:\C#\C#初级课程之语法基础\11函数\function\bin\Debug\function.pdb
+F:\C#\C#初级课程之语法基础\11函数\function\obj\Debug\function.csproj.AssemblyReference.cache
+F:\C#\C#初级课程之语法基础\11函数\function\obj\Debug\function.csproj.CoreCompileInputs.cache
+F:\C#\C#初级课程之语法基础\11函数\function\obj\Debug\function.exe
+F:\C#\C#初级课程之语法基础\11函数\function\obj\Debug\function.pdb
